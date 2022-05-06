@@ -1,2 +1,2 @@
 # awesome-oss-benin
-Un regroupement de divers projets open source réalisés par des béninois
+Un regroupement de divers projets open source réalisés par des béninois de part le monde.
